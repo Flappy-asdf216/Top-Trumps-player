@@ -9,4 +9,7 @@ Please also find .csv files which have the datasets for the project.
 
 The project is fairly malleable, the work is adding csv files for each deck. If you have any sets please feel free to upload these csvs!
 
+Dependencies: Pandas
+
+
 Thanks!
